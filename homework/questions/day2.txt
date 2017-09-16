@@ -1,0 +1,10 @@
+
+Home work:
+
+1. Modify touple value
+example : Touple : (1,2,3,4,5)
+1.Replace 2 in above touple to 6 and result should be   (1,6,3,4,5)
+2.     prepare a Map and print only Keys from Map
+3. prepare a Map and iterate Map and print key and value
+4. set(),str(),list(),dict(),tuple() example
+5. Loop a list, tuple

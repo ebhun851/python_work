@@ -1,0 +1,5 @@
+# Write a program to print family member name and id with function
+# you need to take a person a object
+#example object structure
+#person1 ['name','age','height']
+#person2 ['name','age','height']

@@ -1,0 +1,32 @@
+1. print the prime numbers in betweeen 10 and 20
+2. do example for each method of list
+
+	
+		cmp(list1, list2)
+
+		len(list)
+			
+		max(list)
+			
+		min(list)
+
+		list(seq)
+			
+		list.append(obj)
+
+		list.count(obj)
+			
+		list.extend(seq)
+			
+		list.index(obj)
+
+		list.insert(index, obj)
+
+
+		list.pop(obj=list[-1])
+			
+		list.remove(obj)
+
+		list.reverse()
+			
+		list.sort([func])

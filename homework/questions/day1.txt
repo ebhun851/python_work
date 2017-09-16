@@ -1,0 +1,6 @@
+
+
+Work:
+1. print first and last character of a string
+2. concatenate 2 string and print result
+3. print substring from 2nd letter to end of the string.
